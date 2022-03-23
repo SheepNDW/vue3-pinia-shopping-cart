@@ -11,5 +11,5 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-  base: process.env.NODE_ENV === 'production' ? '/pinia-demo/' : './'
+  base: process.env.NODE_ENV === 'production' ? '/vue3-pinia-shopping-cart/' : './'
 })
