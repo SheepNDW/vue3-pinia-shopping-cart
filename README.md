@@ -1,14 +1,12 @@
 # vue3-pinia-shopping-cart
 
-This template should help get you started developing with Vue 3 in Vite.
+## 簡介：
+Vue3 搭配 Vite 以及 Pinia 寫的購物車 <br>
+[線上 demo 連結](https://sheepndw.github.io/vue3-pinia-shopping-cart/#/)
 
-## Recommended IDE Setup
+開發筆記：[hackmd](https://hackmd.io/@sheep0914/pinia-shopping-cart)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
