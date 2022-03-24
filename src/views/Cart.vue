@@ -1,5 +1,5 @@
 <script>
-import { computed, ref } from 'vue'
+import { computed } from 'vue'
 import { useProductStore } from '@/stores/productStore'
 import { useCartStore } from '@/stores/cartStore'
 import { useStatusStore } from '@/stores/statusStore'
